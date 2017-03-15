@@ -20,7 +20,7 @@ public class Head
 	{
 		JFrame frame = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setTitle("BuGaGeDdOn: ThE wRaTh Of BuG");
+		frame.setTitle("Bugageddon: The Wrath of Bug");
 		frame.setMinimumSize(new Dimension(1128, 650));
 		
 		logManager = new LogManager();

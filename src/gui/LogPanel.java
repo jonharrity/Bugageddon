@@ -33,7 +33,7 @@ public class LogPanel extends JPanel implements LogChangeListener
 	
 	private void addWelcomeMessage()
 	{
-		manager.addToLog("Welcome to: BuGaGeDdOn: ThE wRaTh Of BuG !");
+		manager.addToLog("Welcome to: Bugageddon: The Wrath of Bug !");
 		manager.addToLog("In this game, your objective is to destroy the enemies tower, which is on the right (your tower is on the left).");
 		manager.addToLog("To do this, you will have to train bug soldiers to attack. Bugs cost mana to train. You initially start out with");
 		manager.addToLog("80 mana, and you slowly regenerate mana. To train a bug, click on its image in the row that you want to train the");
