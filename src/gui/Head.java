@@ -21,7 +21,7 @@ public class Head
 		JFrame frame = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setTitle("Bugageddon: The Wrath of Bug");
-		frame.setMinimumSize(new Dimension(1128, 650));
+		frame.setMinimumSize(new Dimension(1128, 680));
 		
 		logManager = new LogManager();
 		
