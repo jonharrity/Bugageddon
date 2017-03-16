@@ -3,7 +3,7 @@
 ### The Wrath of Bug
 
 
-Tower defense game with mana system using bugs as soldiers! Using the GridWorld framework, this is a sample GameBug project.
+Tower defense game with mana system using bugs as soldiers! Using the GridWorld framework, this is a sample GameBug project for the AP java curriculum.
 
 
 ![screenshot](https://raw.githubusercontent.com/jonharrity/Bugageddon/master/screenshot.png "Screenshot of program")
